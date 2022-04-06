@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211193272926",
+    "project_id": "vid0-53048",
+    "storage_bucket": "vid0-53048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211193272926:android:ed12eb6644428b01d1f2cf",
+        "android_client_info": {
+          "package_name": "com.mopilo.video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211193272926-hnfck5e7se15c9rjupphmaij5fren8sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mopilo.video_app",
+            "certificate_hash": "f8759a89e2505c6a9b68d0b61dc4398702ba57bd"
+          }
+        },
+        {
+          "client_id": "211193272926-jb1j8aesdtghprflhrfavcvpsgorvvno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6xgIzIiMU3hw3fdjdZljjG9nnvS28aaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211193272926-jb1j8aesdtghprflhrfavcvpsgorvvno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
